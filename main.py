@@ -7,6 +7,7 @@ from src.cv import train_valid_split, evaluate_model
 from config import FEATURES
 
 def main():
+    print("Git update test")
     data_path = "data"
     print("Main started")
 
